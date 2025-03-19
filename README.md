@@ -3,24 +3,25 @@
 
 📍 Location: Nigeria  
 📧 Email: nnaemekaanyadike@gmail.com 
+
 🔗 LinkedIn: [Your LinkedIn Profile]  
 🐙 GitHub: [Your GitHub Profile]  
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learning Engineering, I leverage data to address business challenges, transforming both data and language into meaningful solutions.
 
 ---
 
-### 🌟 Professional Highlights
-- 🚀 **[AI Instructor and Programmer]** - [Graceland International Schools] ([2023-Present])
-- 💡 **[AI Intern]** - [Hamoye AI Labs] ([2023])
-- 🔬 **[Another Role]** - [Company Name] ([Year])
+## 🌟 Professional Highlights
+- 🚀 AI Instructor and Programmer - (Graceland International Schools 2023-Present)
+- 💡 AI Intern - (Hamoye AI Labs 2023)
+- 🔬 Site Supervisor  - (Indorama Petrochemicals Ltd 2016-2018)
 
 ---
 
-### 🛠 Tech Toolbox
+## 🛠 Tech Toolbox
 - **Languages:** Python, SQL, JavaScript, HTML/CSS, Biopython.
 - **Frameworks & Libraries:** PyTorch, Langchain, Tensorflow, Huggingface, SpaCy
 - **Tools:** AWS, GCP, Docker, Git
@@ -28,16 +29,16 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 
 ---
 
-### 🎓 Education
-- **Masters in [Pharmacology] **, [University of Lagos, Nigeria ]
-- **Bachelors in [Applied Biochemistry ]**, [Nnamdi Azikiwe University , Nigeria ]
+## 🎓 Education
+- Masters in Pharmacology - (University of Lagos, Nigeria)
+- Bachelors in Applied Biochemistry -(Nnamdi Azikiwe University , Nigeria)
 
 ---
 
 ### 📜 Certifications
-- 📖 [Applied Data Science Lab] - [WorldQuant University , Oregon, USA]
-- 🎓 [Machine Learning with Python ] - [FreeCodeCamp]
-- 🎓 [Mastering AI Marketing ] - [SkillShare]
+- 📖 Applied Data Science Lab - [WorldQuant University , Oregon, USA]
+- 🎓 Machine Learning with Python  - [FreeCodeCamp]
+- 🎓 Mastering AI Marketing  - [SkillShare]
 
 ---
 
