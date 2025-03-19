@@ -14,17 +14,17 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 ---
 
 ### 🌟 Professional Highlights
-- 🚀 **[Your Current Role]** - [Company Name] ([Year-Present])
-- 💡 **[Previous Role]** - [Company Name] ([Year])
+- 🚀 **[AI Instructor and Programmer]** - [Graceland International Schools] ([2023-Present])
+- 💡 **[AI Intern]** - [Hamoye AI Labs] ([2023])
 - 🔬 **[Another Role]** - [Company Name] ([Year])
 
 ---
 
 ### 🛠 Tech Toolbox
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Huggingface, SpaCy
+- **Languages:** Python, SQL, JavaScript, HTML/CSS, Biopython.
+- **Frameworks & Libraries:** PyTorch, Langchain, Tensorflow, Huggingface, SpaCy
 - **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
+- **Specialties:** ML, LLMs, Generative AI, NLP, Search
 
 ---
 
@@ -35,8 +35,9 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 ---
 
 ### 📜 Certifications
-- 📖 [Certification 1] - [Issuer]
-- 🎓 [Certification 2] - [Issuer]
+- 📖 [Applied Data Science Lab] - [WorldQuant University , Oregon, USA]
+- 🎓 [Machine Learning with Python ] - [FreeCodeCamp]
+- 🎓 [Mastering AI Marketing ] - [SkillShare]
 
 ---
 
