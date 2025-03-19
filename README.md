@@ -1,3 +1,12 @@
+<div style="
+    background: linear-gradient(135deg, #007FFF, #00BFFF);
+    padding: 2.5rem;
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+">
+
+
 <h1 align="center">👋 Hello, I'm NnaEmeka!</h1>
 <h3 align="center">🚀 AI/ML Engineer focusing on applied AI/ML </h3>
 
@@ -45,3 +54,5 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 ---
 
 💡 Let's connect, collaborate, and build cool experiences with AI! 🚀
+
+</div>
