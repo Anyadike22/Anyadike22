@@ -2,9 +2,11 @@
 <h3 align="center">🚀 AI/ML Engineer focusing on applied AI/ML </h3>
 
 📍 Location: Nigeria  
+
 📧 Email: nnaemekaanyadike@gmail.com 
 
 🔗 LinkedIn: [Your LinkedIn Profile]  
+
 🐙 GitHub: [Your GitHub Profile]  
 
 ---
