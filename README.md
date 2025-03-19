@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm Emeka!</h1>
-<h3 align="center">🚀 AI/ML Engineer focusing on applied AI</h3>
+<h1 align="center">👋 Hello, I'm NnaEmeka!</h1>
+<h3 align="center">🚀 AI/ML Engineer focusing on applied AI/ML </h3>
 
-📍 Location: [Your City/Country]  
+📍 Location: Nigeria  
 📧 Email: nnaemekaanyadike@gmail.com 
 🔗 LinkedIn: [Your LinkedIn Profile]  
 🐙 GitHub: [Your GitHub Profile]  
@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 About Me
-Blending over X years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions.
+Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learning Engineering, I leverage data to address business challenges, transforming both data and language into meaningful solutions.
 
 ---
 
@@ -29,8 +29,8 @@ Blending over X years of experience in ML, NLP, and Software Engineering, I tran
 ---
 
 ### 🎓 Education
-- **Masters in [Field]**, [University Name]
-- **Bachelors in [Field]**, [University Name]
+- **Masters in [Pharmacology] **, [University of Lagos, Nigeria ]
+- **Bachelors in [Applied Biochemistry ]**, [Nnamdi Azikiwe University , Nigeria ]
 
 ---
 
