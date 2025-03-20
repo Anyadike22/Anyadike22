@@ -6,7 +6,7 @@
 
 📧 Email: nnaemekaanyadike@gmail.com 
 
-🔗 LinkedIn: [Your LinkedIn Profile]  
+🔗 LinkedIn: www.linkedin.com/in/nnaemeka-anyadike-0b9691357 
 
 🐙 GitHub: Anyadike22
 
