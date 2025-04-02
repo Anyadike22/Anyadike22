@@ -30,14 +30,12 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 
 ---
 
-## 🛠 Tech Toolbox
+## 🛠 Tech Toolbox/Stack
 - **Languages:** Python, SQL, JavaScript, HTML/CSS, Biopython.
 - **Frameworks & Libraries:** PyTorch, Langchain, Tensorflow, Huggingface, SpaCy
 - **Tools:** AWS, GCP, Docker, Git
 - **Specialties:** ML, LLMs, Generative AI, NLP, Search
 
-
-## Tech Stack:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
