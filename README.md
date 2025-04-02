@@ -4,10 +4,6 @@
 
 📍 Location: Nigeria  
 
-📧 Email: nnaemekaanyadike@gmail.com 
-
-🔗 LinkedIn:  
-
 🐙 GitHub: Anyadike22
 
 
