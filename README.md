@@ -36,7 +36,7 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 - **Tools:** AWS, GCP, Docker, Git
 - **Specialties:** ML, LLMs, Generative AI, NLP, Search
 
-## Tech Stack:
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -45,7 +45,8 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Biopython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=chainlink&logoColor=white)](https://python.langchain.com/)  
+[![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=chainlink&logoColor=white)](https://python.langchain.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 <br>
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -54,7 +55,6 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 
