@@ -24,6 +24,7 @@ Blending over 5 years of experience in Data Science , ML, NLP, and Machine Learn
 ---
 
 ## 🌟 Professional Highlights
+- 💡 ML Engineer ( Intelli-Edge AI Lab 2024-Present)
 - 🚀 AI Instructor and Programmer - (Graceland International Schools 2023-Present)
 - 💡 AI Intern - (Hamoye AI Labs 2023)
 - 🔬 Site Supervisor  - (Indorama Petrochemicals Ltd 2016-2018)
